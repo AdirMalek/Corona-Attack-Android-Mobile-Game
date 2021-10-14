@@ -1,6 +1,9 @@
 # CoronaAttack
 An Android Mobile game (versions 4.4(KitKat) and above).
+
 In this game you have to earn points by shooting the Corona icons. if the Corona icons will catch you, the game is over.
+
+
 
 ·	Programmed in Java.
 
