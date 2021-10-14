@@ -1,10 +1,10 @@
 # CoronaAttack
-An Android Mobile game.
-In this game you should avoid contact with the Corona icons.
+An Android Mobile game (versions 4.4(KitKat) and above).
+In this game you have to earn points by shooting the Corona icons. if the Corona icons will catch you, the game is over.
 
 ·	Programmed in Java.
 
-·	Using Firebase (Authentication, Database).
+·	Using Firebase (Authentication and database) for registration and the users scores.
 
 ·	Using SurfaceView, Paint, Canvas, Bitmap and Rect classes, Runnable interface, Threads and Shared preferences.
 
